@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<library>
+  <book>
+    <title>Hobbit</title>
+    <author>Tolkien</author>
+    <isbn>978-0582186552</isbn>
+    <lastBorrowDate>21.04.2018</lastBorrowDate>
+    <lastBorrower>
+      <name>Adam</name>
+      <lastname>Nowak</lastname>
+    </lastBorrower>
+  </book>
+  <book>
+    <title>Pro ASP.NET MVC 5</title>
+    <author>Adam Freeman</author>
+    <isbn>978-1430265290</isbn>
+    <lastBorrowDate>01.01.0001</lastBorrowDate>
+    <lastBorrower>
+      <name></name>
+      <lastname></lastname>
+    </lastBorrower>
+  </book>
+  <book>
+    <title>Programming Entity Framework</title>
+    <author>Julia Lerman</author>
+    <isbn>978-0596520281</isbn>
+    <lastBorrowDate>06.05.2018</lastBorrowDate>
+    <lastBorrower>
+      <name>Jan</name>
+      <lastname>Kwiatkowski</lastname>
+    </lastBorrower>
+  </book>
+  <book>
+    <title>Dependency Injection in .NET Core 2.0</title>
+    <author>Tadit Dash</author>
+    <isbn>978-1156520281</isbn>
+    <lastBorrowDate>12.05.2018</lastBorrowDate>
+    <lastBorrower>
+      <name>Ewa</name>
+      <lastname>Kowalska</lastname>
+    </lastBorrower>
+  </book>
+  <book>
+    <title>Pro C# 7: With .NET and .NET Core</title>
+    <author>Andrew Troelsen</author>
+    <isbn>978-1484230176</isbn>
+    <lastBorrowDate>18.05.2018</lastBorrowDate>
+    <lastBorrower>
+      <name>Adam</name>
+      <lastname>Nowak</lastname>
+    </lastBorrower>
+  </book>
+</library>

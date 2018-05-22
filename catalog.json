@@ -1,0 +1,72 @@
+[
+  {
+    "Title": "Hobbit",
+    "Author": "Tolkien",
+    "Isbn": "978-0582186552",
+    "LastBorrowDate": "21.04.2018",
+    "LastBorrower": {
+      "Name": "Adam",
+      "Lastname": "Nowak"
+    }
+  },
+  {
+    "Title": "Pro ASP.NET MVC 5",
+    "Author": "Adam Freeman",
+    "Isbn": "978-1430265290",
+    "LastBorrowDate": "01.01.0001",
+    "LastBorrower": {
+      "Name": "",
+      "Lastname": ""
+    }
+  },
+  {
+    "Title": "Programming Entity Framework",
+    "Author": "Julia Lerman",
+    "Isbn": "978-0596520281",
+    "LastBorrowDate": "20.04.2018",
+    "LastBorrower": {
+      "Name": "Jan",
+      "Lastname": "Kwiatkowski"
+    }
+  },
+  {
+    "Title": "Dependency Injection in .NET Core 2.0",
+    "Author": "Tadit Dash",
+    "Isbn": "978-1156520281",
+    "LastBorrowDate": "12.05.2018",
+    "LastBorrower": {
+      "Name": "Ewa",
+      "Lastname": "Kowalska"
+    }
+  },
+  {
+    "Title": "Pro C# 7: With .NET and .NET Core",
+    "Author": "Andrew Troelsen",
+    "Isbn": "978-1484230176",
+    "LastBorrowDate": "18.05.2018",
+    "LastBorrower": {
+      "Name": "Adam",
+      "Lastname": "Nowak"
+    }
+  },
+  {
+    "Title": "nopwy",
+    "Author": "autor nowego",
+    "Isbn": "1234-5",
+    "LastBorrowDate": "01.01.0001",
+    "LastBorrower": {
+      "Name": "",
+      "Lastname": ""
+    }
+  },
+  {
+    "Title": "Sprawdzam",
+    "Author": "dzialanie programu",
+    "Isbn": "1234",
+    "LastBorrowDate": "22.05.2018",
+    "LastBorrower": {
+      "Name": "Mikolaj",
+      "Lastname": "Szotowicz"
+    }
+  }
+]
